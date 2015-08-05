@@ -1,0 +1,10 @@
+Core
+hp: 100
+Spawner
+x: 300
+Spawner
+x: 300, y: 300
+Tower
+x: 150, y: 150
+Tower
+x: 150, level: 3
